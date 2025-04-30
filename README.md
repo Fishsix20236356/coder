@@ -1,7 +1,7 @@
 # coder
 陆韬宇的终端空间
 
-链接 https://www.coder.lutaoyu.site/
+链接 https://coder.lutaoyu.site/
 
 或者 [我的终端空间](https://fishsix20236356.github.io/coder/)
 
